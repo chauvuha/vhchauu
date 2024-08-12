@@ -1,3 +1,4 @@
+# About me
 Hi! I'm Chau Vu and welcome to my github page. Here I pinned some of the projects that I created.
 
 Head to my portfolio website for more details on design process: https://www.vuhachau.com/
@@ -8,4 +9,4 @@ Head to my portfolio website for more details on design process: https://www.vuh
 - Technologies: ReactJS; Postgres, Unity, NodeJS; Pytorch (FastAI); MongoDB; Django; Git
 - UX Research: Qualitative Research; Thematic analysis; Surveys; Interviews; Prototyping (Figma)
   
-📫 Feel free to contact me at: vuhachau2412@gmail.com
+💌 Feel free to contact me at: vuhachau2412@gmail.com
