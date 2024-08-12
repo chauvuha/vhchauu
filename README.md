@@ -1,4 +1,3 @@
-# About me
 Hi! I'm Chau Vu and welcome to my github page. Here I pinned some of the projects that I created.
 
 Head to my portfolio website for more details on design process: https://www.vuhachau.com/
